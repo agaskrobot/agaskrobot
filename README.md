@@ -21,8 +21,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![Aga's GitHub stats](https://github-readme-stats.vercel.app/api?username=agaskrobot&theme=tokyonight#gh-light-mode-only)](https://github.com/agaskrobot?tab=repositories)
-
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agaskrobot&theme=tokyonight&size_weight=0&count_weight=1)](https://github.com/agaskrobot)
